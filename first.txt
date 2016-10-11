@@ -1,3 +1,7 @@
 Hello World
  this is another line
+<<<<<<< HEAD
 it's fixed
+=======
+i'm on a new branch, its great idea
+>>>>>>> newidea
